@@ -49,6 +49,11 @@ For admin Login just type 'admin' as username (Leave password blank)
 | 2  | b |
 | 6  | pass2021 |
 
+## Installing 
+
+- Download [XAMPP](https://www.apachefriends.org/download.html)
+- Set up MYSQL Database : Student Table and Book Table 
+- Import Project on IDE or just open **Login_jar.jar** (runnable jar) to run application.  
 
 ###  Login Screen:
 
