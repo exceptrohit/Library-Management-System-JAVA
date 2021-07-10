@@ -2,7 +2,7 @@
 DBMS project using Java Swing and MYSQL
 
 # UML class diagram
-![](Output%20Images/class_diagram.png =250x250)
+![](Output%20Images/class_diagram.png)
 
 ## Actors:
 The actors include the following: 
@@ -14,10 +14,22 @@ The actors include the following:
 
 ![](Output%20Images/login.jpg)
 
+###  Register new student
 
-###  Admin 
-![](Output%20Images/admin.jpg)
+![](Output%20Images/register.jpg)
 
 
 ### User Login 
 ![](Output%20Images/student.jpg)
+
+### Change Password
+![](Output%20Images/changepass.jpg)
+
+###  Admin 
+![](Output%20Images/admin.jpg)
+
+### Return: Admin 
+![](Output%20Images/return.jpg)
+
+### Issue: Admin 
+![](Output%20Images/issue.jpg)
