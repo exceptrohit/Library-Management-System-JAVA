@@ -38,6 +38,8 @@ The actors include the following:
 | ------------- | ------------- |
 | admin  | **null**  |
 
+For admin Login just type 'admin' as username (Leave password blank)
+
 ### Some Login Credentials as student
 | UserID  | Password |
 | ------------- | ------------- |
@@ -45,7 +47,6 @@ The actors include the following:
 | 2  | b |
 | 6  | pass2021 |
 
-For admin Login just type 'admin' as username (leave password blank)
 
 ###  Login Screen:
 
