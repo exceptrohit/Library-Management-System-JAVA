@@ -9,7 +9,17 @@ The actors include the following:
 * Admin / Librarian 
 * User / Student 
 
+## Features
 
+- Login screen has different logins for both **Admin** and **Student**
+- New student registration can be done using Register button
+- Admin/librarian can **Issue**, **Return** or **Add Book**
+- Admin can view of all issued and available books through respective JTables 
+- Admin has information of Return Requests made by students  
+- Student/User can view his/her issued books (book name,book Id, Fine, Due Date)
+- Student can make return request as well as cancel the request.
+- Student can change Password
+- 
 ###  Login Screen:
 
 ![](Output%20Images/login.jpg)
