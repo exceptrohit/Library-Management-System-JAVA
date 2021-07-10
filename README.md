@@ -52,7 +52,7 @@ For admin Login just type 'admin' as username (Leave password blank)
 ## Installing 
 
 - Download [XAMPP](https://www.apachefriends.org/download.html)
-- Set up MYSQL Database : Student Table and Book Table 
+- Set up MYSQL Database : Student Table and Book Table : SQL files for both tables are in Database Folder.
 - Import Project on IDE or just open **Login_jar.jar** (runnable jar) to run application.  
 
 ###  Login Screen:
