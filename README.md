@@ -37,6 +37,10 @@ The actors include the following:
 | UserID  | Password |
 | ------------- | ------------- |
 | admin  | **null**  |
+
+### Some Login Credentials as student
+| UserID  | Password |
+| ------------- | ------------- |
 | 1  | a |
 | 2  | b |
 | 6  | pass2021 |
