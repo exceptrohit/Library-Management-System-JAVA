@@ -2,7 +2,7 @@
 DBMS project using Java Swing and MYSQL
 
 # UML class diagram
-![](Output%20Images/class_diagram.png)
+![](Output%20Images/class_diagram.png =250x250)
 
 ## Actors:
 The actors include the following: 
