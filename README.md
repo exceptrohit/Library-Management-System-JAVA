@@ -74,4 +74,7 @@ For admin Login just type 'admin' as username (Leave password blank)
 ### Issue: Admin 
 ![](Output%20Images/issue.jpg)
 
+### Add Book: Admin 
+![](Output%20Images/addbook.jpg)
+
 Copyright © 2021 Rohit Ranjan 
